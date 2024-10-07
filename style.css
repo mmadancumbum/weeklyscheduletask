@@ -1,0 +1,22 @@
+.container {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.info {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
+
+.tag {
+    color: #666;
+    border: 1px solid #ccc;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.heading {
+    margin: 0px;
+}
